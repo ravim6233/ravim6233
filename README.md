@@ -1,8 +1,8 @@
-Hi, I'm Ravi Mishra- 👋 Hi, I’m @ravim6233
-- I'm interested in Development👀 I’m interested in ...
--I'm currently learning Full Stack Development. 🌱 I’m currently learning ...
--U can reach me at rvavim6233@gmail.com 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Ravi Mishra
+- I'm interested in Development
+-I'm currently learning Full Stack Development.
+-U can reach me at ravim6233@gmail.com
+
 
 <!---
 ravim6233/ravim6233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
